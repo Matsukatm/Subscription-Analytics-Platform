@@ -480,16 +480,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - MongoDB injection prevention
 - Stripe webhook signature verification
 
-### Security Best Practices
-- Regular dependency updates
-- Environment variable protection
-- HTTPS enforcement in production
-- Database connection encryption
-- API key rotation procedures
-- Regular security audits
-
----
-
-**Built with ❤️ for subscription businesses worldwide**
-
-For more information, visit our [documentation site](https://docs.yourcompany.com) or contact our team at [support@yourcompany.com](mailto:support@yourcompany.com).# Subscription-Analytics-Platform
